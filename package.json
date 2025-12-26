@@ -27,7 +27,7 @@
         "test:unit": "npm run test --selectProjects unit"
     },
     "dependencies": {
-        "@types/node": "22.9.0",
+        "@types/node": "22.19.1",
         "bson": "6.9.0",
         "glob": "11.0.0",
         "protobufjs": "7.2.5",
